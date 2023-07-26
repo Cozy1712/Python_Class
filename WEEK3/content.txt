@@ -1,0 +1,4 @@
+Next comes the dictionary code that does the counting. The dictionary keys will be the words from
+the text and the values will be counts of how many time each word appears. We start with an
+empty dictionary. Then for every word in the list of words, if we have seen the word before, we
+add one to its count, and otherwise we set the count for that word equal to 1. Here is the code:
